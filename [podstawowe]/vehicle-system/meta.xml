@@ -1,0 +1,4 @@
+<meta>
+    <script src="c_admin.lua" type="client"/>
+    <script src="s_admin.lua" type="server"/>
+</meta>

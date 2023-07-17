@@ -1,0 +1,11 @@
+<meta>
+    <script src="c_loginPanel.lua" type="client"/>
+    <script src="s_loginPanel.lua" type="server"/>
+
+    <script src="c_creatingCharacter.lua" type="client"/>
+
+    <script src="c_characterSelection.lua" type="client"/>
+    <script src="s_characterSelection.lua" type="server"/>
+    
+    <file src="font.ttf"/>
+</meta>
